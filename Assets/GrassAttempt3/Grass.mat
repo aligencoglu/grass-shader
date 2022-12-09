@@ -65,7 +65,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints:
-    - _GrassWidth: 6
+    - _GrassWidth: 3
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
@@ -84,14 +84,14 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
-    - _WindAngle: 0.38
-    - _WindIntensity: 3.03
+    - _WindAngle: 0.37
+    - _WindIntensity: 1.64
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _GrassColor: {r: 0, g: 1, b: 0, a: 1}
-    - _PlayerWorldPosition: {r: -11.800604, g: 0.99999964, b: 6.42632, a: 0}
+    - _PlayerWorldPosition: {r: 0, g: 0, b: 0, a: 0}
     - _TVector: {r: 0, g: 0, b: 0, a: 0}
     - _TransDir: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
